@@ -19,7 +19,7 @@ However, my passion has never stopped bothering me to follow my ultimate craving
 * JavaScript
 * MongoDB
 * Express.js
-* Angular (in progress)
+* Angular (learning)
 * Node.js
 * Git, GitHub
 * Postman
