@@ -1,7 +1,7 @@
 # Akhrorjon Boltaboev
 ## Contact Information
 
-**Phone:** +998 903040999
+**Phone:** +998 903040999, +998 999150992
 
 **E-mail:** akhrorjonb@gmail.com
 
