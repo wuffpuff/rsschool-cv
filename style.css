@@ -45,7 +45,7 @@ header .image-box {
 header .image-box img {
     max-width: 100%;
     height: auto;
-    border-radius: 100px;
+    border-radius: 250px;
 }
 
 header .profile-name {
