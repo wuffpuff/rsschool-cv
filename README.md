@@ -1,1 +1,1 @@
-file:///E:/reporepo/index.html
+https://wuffpuff.github.io/rsschool-cv/
